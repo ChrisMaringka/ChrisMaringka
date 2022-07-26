@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChrisMaringka
-- 👀 I’m interested in Data Analytics!
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analytics
 - 📫 How to reach me: christopher.maringka@gmail.com
 
 <!---
